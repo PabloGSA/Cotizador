@@ -140,7 +140,7 @@ input.coin-input {
     justify-content: space-between;
     align-items: center;
     font-size: 14px;
-    color: #e2e8f0;
+    color: #000000;
     padding: 12px 0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
@@ -151,7 +151,7 @@ input.coin-input {
 
 #coin-info .price {
     font-weight: 700;
-    color: #764ba2;
+    color: #F5F1F9;
     font-size: 15px;
 }
 
@@ -208,6 +208,7 @@ input.coin-input {
     #coin-info .price {
         font-size: 14px;
     }
+
 .loader {
   border: 16px solid #f3f3f3; /* Light grey */
   border-top: 16px solid #3498db; /* Blue */
@@ -238,7 +239,7 @@ input.coin-input {
     margin-top: 2rem;
     padding: 1.5rem;
     text-align: center;
-    color: rgba(255, 255, 255, 0.6);
+    color: #F5F1F9;
     font-size: 0.9rem;
     position: fixed;
     z-index: 1;
